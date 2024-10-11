@@ -34,9 +34,12 @@ This is a project which I have worked as a mentor on during Mentorship Phase of 
 |18| Bread Board | 1 |
 
 ## Source Code
-You can view the code by going to the `code.ino` section
+You can view the code by going to the <b> `code.ino` </b> section
 
 ## Future Enhancements
+<p align='justify'>
+This model is just a prototype, in future we can use Camera module for image processing and detect the lower level objects which are out of range of ultrasonic sensor(height), so that bot direction can be chnaged more efficiently. Also, AutoMow Nexus can be enhanced using more efficient and high torque DC motors like Square geared motors.
+</p>
 
 ## Documentation
 >[!IMPORTANT]
@@ -45,8 +48,16 @@ You can view the code by going to the `code.ino` section
 ## Team Members
 - K Venkata Sai Harini (Mentor)
 - ManiChand (Mentor)
-- Akshay 
+- Akshay Bashetty
+- K Akhil
+- D Tejasri
+- Kaushik Surapalli
+- D Karthik
+- Neha Reddy
+- N Ranjith
+- Renesh Sachidathma
+- G Harshaveena
 
->[!IMPORTANT]
+>[!NOTE]
 > Link to the --Blogs-- and
 >---linkedIn--
